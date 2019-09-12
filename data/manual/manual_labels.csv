@@ -1,0 +1,77 @@
+label (1-concrete 2-meta 0-irrelevant), repository, branch, comment (application type and SPARQL usage)
+2, https://github.com/SmartDataAnalytics/DL-Learner/, develop, Collection of tools for machine learning in the context of DL ontologies
+1, https://github.com/sirmaenterprise/conservation-space/, master, Content management system for conservators
+0, https://github.com/dice-group/CostFed/, master, SPARQL endpoint federation engine with cost-based query optimization
+1, https://github.com/GRIDAPPSD/Powergrid-Models/, master, Model conversion in the context of energy grid simulation software
+0, https://github.com/apache/incubator-rya/, master, RDF Store (mirror)
+1, https://github.com/vivo-project/Vitro/, develop, Semantic web application framework (that uses SPARQL)
+0, https://github.com/Informasjonsforvaltning/fdk/, develop, National Data Directory of Norways, employs SPARQL in rule-based validation
+0, https://github.com/seagent/WoDQA/, master, SPARQL use in benchmark suite
+0, https://github.com/crapo/sadlos2/, development, Semantic language implementation (SPARQL in examples)
+0, https://github.com/europeana/tools/, master, Meta-project of collection of varius tools (varius resource files with queries)
+1, https://github.com/linkedpipes/etl/, master, RDF based ETL tool
+0, https://github.com/SmartDataAnalytics/jena-sparql-api/, master, Extensions for Jena SPARQL (framework)
+1, https://github.com/WDAqua/SummaServer/, master, Service for summarizing (specific) RDF graphs
+0, https://github.com/wikimedia/wikidata-query-blazegraph/, wmf, Blazegraph data base (mirror)
+0, https://github.com/blazegraph/database/, master, Blazegraph data base
+0, https://github.com/smalyshev/blazegraph/, master, Blazegraph (other mirror)
+2, https://github.com/researchstudio-sat/webofneeds/, master, Linked data protocol for cooperation (SPARQL usage in validation)
+0, https://github.com/AKSW/RDFUnit/, master, RDF unit testing suite (SPARQL in tests)
+2, https://github.com/cltl/EventCoreference/, master, Coreference analysis of event data in documents (extraction for reasoning)
+0, https://github.com/franzinc/agraph-java-client/, master, AllegroGraph client interface (framework)
+1, https://github.com/RENCI-NRIG/orca5/, master, Meta-cloud managing network description model
+0, https://github.com/plt-tud/r43ples/, develop, Revision management tool (SPARQL benchmark)
+0, https://github.com/luposdate/luposdate/, master, Semantic data base management system
+0, https://github.com/anno4j/anno4j/, master, Library for the W3C web annotation data model
+2, https://github.com/Ostrich-Emulators/semtool/, master, GUI application for semantic databse exploration
+2, https://github.com/WDAqua/Qanary-question-answering-components/, master, Question answering service
+2, https://github.com/serginf/MDM/, master, Metadata management/storage system
+1, https://github.com/oeg-upm/map4rdf/, master, Visualization and interaction for linked geospatial data
+2, https://github.com/stefano-ortona/rudik/, master, Rule mining on DBPedia
+2, https://github.com/inovexcorp/mobi/, master, Graph data platform (using SPARQL itself)
+2, https://github.com/ag-sc/AMUSE/, master, Semantic parsing for QALD
+1, https://github.com/digibib/ls.ext/, develop, Oslo public library management system
+1, https://github.com/KnowledgeCaptureAndDiscovery/wings/, master, Computational experiment workflow design system
+0, https://github.com/denkbares/d3web-KnowWE/, master, Semantic Wiki (tests)
+2, https://github.com/openimaj/openimaj/, master, Collection of multimedia analysis libraries
+0, https://github.com/DeFacto/DeFacto/, master, Fact validation framework (SPARQL for DBPedia based training set generation)
+2, https://github.com/cmader/qSKOS/, master, Quality checker for SKOS vocabularies
+0, https://github.com/LITMUS-Benchmark-Suite/sparql-to-gremlin/, master, SPARQL to Gremlin traversal transpiler (test cases)
+1, https://github.com/KnowledgeCaptureAndDiscovery/DataNarratives/, master, Text-based narrative generation for Workflow results
+2, https://github.com/nimble-platform/catalog-search-service/, master, Search engine
+0, https://github.com/Quetzal-RDF/quetzal/, master, SPARQL to SQL
+2, https://github.com/streampipes/streampipes-ce/, dev, Big data stream IoT analysis toolbox
+0, https://github.com/agreementmaker/agreementmaker/, master, Ontology matching (reasoning)
+0, https://github.com/ldbc/ldbc_snb_implementations/, master, Benchmark
+2, https://github.com/KdmAnalytics/toif/, master, Code vulerability detection tool
+0, https://github.com/apache/stanbol/, trunk, Semantic content management framework
+0, https://github.com/dice-group/LIMES/, master, Link discovery framework for metric spaces
+0, https://github.com/drlivingston/kabob/, master, Biology knowledgebase
+0, https://github.com/dice-group/hawk/, master, Question answering tool
+2, https://github.com/usc-isi-i2/Web-Karma/, master, Information integration tool
+2, https://github.com/WDAqua/Frankenstein/, master, Question answering (see Qanary-question-answering-components)
+2, https://github.com/dice-group/NLIWOD/, master, Natural language generation tools
+0, https://github.com/UKGovLD/registry-core/, master, Linked data registry webservice
+0, https://github.com/pparas007/Adaptive-Applications--Polychrest/, master, Course submission
+0, https://github.com/europeana/contrib/, master, Meta repository (various SPARQL resources)
+0, https://github.com/OpenGovIntelligence/json-qb-api-implementation/, master, Specific RDF store API
+0, https://github.com/OpenWIS/openwis/, master, Meteorological information system
+0, https://github.com/wikimedia/wikidata-query-rdf/, master, Wikibase query framework (SPARQL in test cases)
+2, https://github.com/dice-group/sask/, master, Fact search and extraction (graph exploration)
+2, https://github.com/Rothamsted/ondex-knet-builder/, master, Tools for building large scale knowledge networks
+0, https://github.com/henrietteharmse/henrietteharmse/, master, Blog (source) with tutorials
+0, https://github.com/leth/ng4j/, master, Named graphs API for Jena (framework extension)
+0, https://github.com/UNC-Libraries/Carolina-Digital-Repository/, fcrepo4, Digital repository for scholarly data
+0, https://github.com/SmartDataAnalytics/Sparqlify/, master, SPARQL to SQL rewriter
+0, https://github.com/VeritasOS/fedx/, master, Query federation tool
+2, https://github.com/janpolowinski/rvl/, builds/unstable, Visualization language implementation that uses (meta) SPARQL
+2, https://github.com/eclipse/lyo.rio/, master, Implementatino of a life cycle management standard
+0, https://github.com/eclipse/rdf4j/, master, RDF4J framework
+0, https://github.com/europeana/mint2/, master, deprecated
+0, https://github.com/eclipse/rdf4j-storage/, master, Storage component of RDF4J
+1, https://github.com/rmap-project/rmap/, master, Management system of complex scholarly contribution relations
+0, https://github.com/nuxeo/nuxeo/, master, Business content management system
+0, https://github.com/ontop/ontop/, version3, Query relational DB as virtual RDF graphs
+1, https://github.com/EBISPOT/goci/, 2.x-stable, Visualization component of GWAS catalog curation tool
+0, https://github.com/quhfus/DoSeR-Disambiguation/, master, Framework for entity disambiguation with semantic embeddings
+
